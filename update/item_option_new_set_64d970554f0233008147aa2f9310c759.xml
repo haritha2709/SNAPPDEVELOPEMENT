@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>stu info</description>
+        <display_title>false</display_title>
+        <internal_name>stuinfo</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-14 02:21:09</sys_created_on>
+        <sys_id>64d970554f0233008147aa2f9310c759</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stuinfo</sys_name>
+        <sys_package display_value="collegeservice" source="x_366645_collegese">a9463c514f0233008147aa2f9310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="collegeservice">a9463c514f0233008147aa2f9310c711</sys_scope>
+        <sys_update_name>item_option_new_set_64d970554f0233008147aa2f9310c759</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-14 02:21:09</sys_updated_on>
+        <title>stuinfo</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
